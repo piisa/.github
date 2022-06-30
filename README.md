@@ -1,0 +1,2 @@
+# .github
+Open Privacy API
